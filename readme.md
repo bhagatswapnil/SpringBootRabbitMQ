@@ -1,1 +1,1 @@
-test
+Rabbit MQ Delayed Queue
